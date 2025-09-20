@@ -31,7 +31,8 @@ It provides insights into sales performance, profit analysis, customer behavior,
 ## 📷 Dashboard Preview
 Here is a preview of the dashboard:  
 
-![E-commerce Dashboard]("C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-09-20 121824.png")
+![E-commerce Dashboard](<img width="508" height="286" alt="Screenshot 2025-09-20 121824" src="https://github.com/user-attachments/assets/c6840204-fbfb-47c1-add8-5ce979ea5771" />
+)
 
 ---
 
